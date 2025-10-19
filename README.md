@@ -1,3 +1,4 @@
+
 # FrontendShowcase
 
 A comprehensive React frontend project showcasing modern development practices, design principles, and professional code quality.
@@ -96,3 +97,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 Built with ❤️ by Frontend Developer
+=======
+
